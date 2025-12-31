@@ -1,5 +1,5 @@
 import { Section } from '../Section';
-import { Activity, Clock, Zap, Cpu, Briefcase } from 'lucide-react';
+import { Activity, Zap, Cpu, Briefcase } from 'lucide-react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../../deep-copernicus/src/db';
 

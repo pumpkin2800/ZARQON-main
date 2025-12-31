@@ -1,5 +1,5 @@
 import { Section } from '../Section';
-import { useAccessStore } from '../../store/accessStore';
+// import { useAccessStore } from '../../store/accessStore';
 
 export const CapabilitySection = () => {
     return (

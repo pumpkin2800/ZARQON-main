@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Lock, ShieldCheck } from 'lucide-react';
+import { X, Lock } from 'lucide-react';
 import { useAccessStore } from '../store/accessStore';
 
 interface AccessModalProps {
